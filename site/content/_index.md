@@ -1,7 +1,7 @@
 ---
 title: Alquiler de discomóvil para eventos
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+image: img/discomovil.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
