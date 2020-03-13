@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contacto
 logo: img/discomovil.png
 contact_entries:
   - heading: Location
