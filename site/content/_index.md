@@ -3,12 +3,12 @@ title: Alquiler de discomóvil para eventos
 subtitle: Support sustainable farming while enjoying a cup
 image: img/discomovil.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: ¿Por qué Discomóvil Barcelona?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Sómos un grupo de veteranos discjockeys con una gran trayectoria desde
+    nuestros inicios en discotecas hasta animación en todo tipo de eventos para
+    empresas colegios, bodas, fiestas privadas, fiestas mayores, inauguraciones,
+    presentaciones...
 intro:
   heading: What we offer
   text: >-
