@@ -1,6 +1,6 @@
 ---
 title: Alquiler de discomóvil para eventos
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: El mejor Dj para tu fiesta
 image: img/discomovil.jpg
 blurb:
   heading: ¿Por qué Discomóvil Barcelona?
